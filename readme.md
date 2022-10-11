@@ -1,6 +1,5 @@
-[![Github_Profile](https://github-readme-stats.vercel.app/api?username=ronhedwigzape&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronhedwigzape&layout=compact&langs_count=8&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronhedwigzape&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ronhedwigzape/ronhedwigzape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
