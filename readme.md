@@ -1,4 +1,4 @@
-# Hi there :wave: I'm Ron Hedwig. :tomato: :four_leaf_clover: :fire:
+# Hi there :wave: I'm Ron Hedwig. :fire:
 
 ```
 I'm practicing to code daily for future
