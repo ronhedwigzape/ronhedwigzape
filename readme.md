@@ -1,8 +1,7 @@
 # Hi there :wave: I'm Ron Hedwig. :fire:
 
-```
-I'm practicing to code daily for future
-```
+
+```I'm practicing to code daily for future``` :smiley:
 
 <!---
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronhedwigzape&show_icons=true&theme=tokyonight)
