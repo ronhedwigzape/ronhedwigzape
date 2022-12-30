@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ron Hedwig
-==================================================================================================================================
+## Hi :wave: My name is Ron Hedwig
 
-Web Developer
--------------
+### Web Developer
 
 I've been learning 2 and a half year of coding through motivation and inspiration.
 
@@ -29,4 +27,4 @@ I've been learning 2 and a half year of coding through motivation and inspiratio
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/ronhedwig.zape.hogwarts.headmaster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ronhedwigzape" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ronhedwigzape" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/ronhedwig.zape.hogwarts.headmaster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ronhedwigzape" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
