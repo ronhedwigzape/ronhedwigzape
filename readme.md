@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ron Hedwig</h1>
 
 ```
-I've been learning 2 and a half year of coding through motivation and inspiration.
+I have dedicated the past 2 years to learning and mastering coding, fueled by my motivation and inspiration.
 ```
 
 - 🔭 I’m currently working on [portfolio](portfolio)
