@@ -8,7 +8,7 @@ I am devoted to pursuing and mastering the art of coding, driven by my passion a
 
 - 🌍  I'm based in Philippines
 
-- 🧠  I'm learning PHP and VueJS
+- 🧠  I'm learning VueJS
 
 
 ### Skills
