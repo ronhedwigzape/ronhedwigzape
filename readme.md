@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js & PHP**
 
-- 👯 I’m looking to collaborate on ****
+- 👯 I’m looking to collaborate on 
 
 - 🤝 I’m looking for help with **Web design**
 
