@@ -63,10 +63,8 @@
 <!-- <a href="https://github.com/ronhedwigzape" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronhedwigzape&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  -->
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronhedwigzape&show_icons=true&locale=en&layout=compact" alt="invancible" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronhedwigzape&show_icons=true&locale=en&layout=compact" alt="ronhedwigzape" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronhedwigzape&" alt="ronhedwigzape" /></p>
-
 <!---
 ronhedwigzape/ronhedwigzape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
