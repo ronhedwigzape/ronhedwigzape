@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ron Hedwig</h1>
+<h1 align="center">Hello World 👋, I'm Ron Hedwig</h1>
 <h3 align="center">An aspiring full-stack web developer from Philippines</h3>
 
 - 🔭 I’m currently working on [Vue by netninja](https://github.com/ronhedwigzape/vue2-thenetninja-lesson-17)
