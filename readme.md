@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Web design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ronhedwigzape?tab=repositories](https://github.com/ronhedwigzape?tab=repositories)
-
 - 💬 Ask me about **Basics of Web Development**
 
 - 📫 How to reach me **ronhedwigaquinozape@gmail.com**
