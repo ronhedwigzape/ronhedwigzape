@@ -2,18 +2,6 @@
 
 > aspiring to become a professional software engineer. I love Harry Potter and infuse magic into my works. 💫
 
-
-<details>
-
-<summary> <h4> 📜 GitHub Stats </h4> </summary>
-
-> <img src="https://github-readme-stats.vercel.app/api?username=ronhedwigzape&show_icons=true&theme=transparent&hide_border=true" alt="Ron's GitHub stats">
-
-> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronhedwigzape&theme=transparent&hide_border=true" alt="Ron's GitHub Streak">
-
-</details>
-
-
 #### 📞 Find me
 
 >  Contact me for collaboration or discussion on magical coding via email or Twitter.
@@ -49,17 +37,6 @@
 <code><img height="20" src="svg/aws.svg"></code>
 <code><img height="20" src="svg/firebase.svg"></code>
 <code><img height="20" src="svg/supabase-icon.svg"></code>
-
-
-<details>
-
-<summary> <h4> 💬 Most Used Languages </h4> </summary>
-
-> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronhedwigzape&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
-
-
-</details>
-
 
 #### <img height="18" src="https://api.iconify.design/fluent-emoji:magic-wand.svg"> Projects
 
