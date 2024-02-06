@@ -4,39 +4,42 @@
 
 #### 📞 Find me
 
->  Contact me for collaboration or discussion on magical coding via email or Twitter.
+>  Contact me for collaboration or discussion on magical coding via Facebook, Twitter(X), or email.
 <samp>
+    <img height="10" src="https://api.iconify.design/logos:facebook.svg"> 
+    <a href="https://facebook.com/ronhedwigzape" target="_blank">Facebook</a>
+    •
     <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> 
     <a href="mailto:ronzape@ronhedwigzape.com">Email</a>
     •
     <img height="10" src="https://api.iconify.design/logos:twitter.svg"> 
-    <a href="https://twitter.com/ronhedwigzape">Twitter</a>
+    <a href="https://twitter.com/ronhedwigzape" target="_blank">Twitter</a>
     •
-    <img src="https://api.iconify.design/file-icons:owl.svg" style="filter: invert(1);" />
-    <a href="http://ronhedwigzape.com/">Hedwig's Site</a>
+    <img height="13" src="https://api.iconify.design/fluent-emoji:owl.svg" style="filter: invert(1);" />
+    <a href="http://ronhedwigzape.com/" target="_blank">Hedwig's Site</a>
 </samp>
 
 
 #### 🛠 Tech Stack
 
-<code><img height="20" src="svg/javascript.svg"></code>
-<code><img height="20" src="svg/typescript.svg"></code>
-<code><img height="20" src="svg/vitejs.svg"></code>
-<code><img height="20" src="svg/file-type-vue.svg"></code>
-<code><img height="20" src="svg/vueuse.svg"></code>
-<code><img height="20" src="svg/nuxt-icon.svg"></code>
-<code><img height="20" src="svg/flutter.svg"></code>
-<code><img height="20" src="svg/dart.svg"></code>
-<code><img height="25" src="svg/tailwindcss.svg"></code>
-<code><img height="20" src="svg/vitest.svg"></code>
-<code><img height="20" src="svg/nodejs.svg"></code>
-<code><img height="20" src="svg/expressjs-dark.svg"></code>
-<code><img height="20" src="svg/php.svg"></code>
-<code><img height="20" src="svg/laravel.svg"></code>
-<code><img height="20" src="svg/inertia.svg"></code>
-<code><img height="20" src="svg/aws.svg"></code>
-<code><img height="20" src="svg/firebase.svg"></code>
-<code><img height="20" src="svg/supabase-icon.svg"></code>
+<code><a href="https://javascript.info/" target="_blank"><img height="20" src="svg/javascript.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="20" src="svg/typescript.svg"></a></code>
+<code><a href="https://vitejs.dev/" target="_blank"><img height="20" src="svg/vitejs.svg"></a></code>
+<code><a href="https://vuejs.org/" target="_blank"><img height="20" src="svg/file-type-vue.svg"></a></code>
+<code><a href="https://vueuse.org/" target="_blank"><img height="20" src="svg/vueuse.svg"></a></code>
+<code><a href="https://nuxt.com/" target="_blank"><img height="20" src="svg/nuxt-icon.svg"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img height="20" src="svg/flutter.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank"><img height="20" src="svg/dart.svg"></a></code>
+<code><a href="https://tailwindcss.com/" target="_blank"><img height="25" src="svg/tailwindcss.svg"></a></code>
+<code><a href="https://vitest.dev/" target="_blank"><img height="20" src="svg/vitest.svg"></a></code>
+<code><a href="https://nodejs.org/en" target="_blank"><img height="20" src="svg/nodejs.svg"></a></code>
+<code><a href="https://expressjs.com/" target="_blank"><img height="20" src="svg/expressjs-dark.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="20" src="svg/php.svg"></a></code>
+<code><a href="https://laravel.com/" target="_blank"><img height="20" src="svg/laravel.svg"></a></code>
+<code><a href="https://inertiajs.com/" target="_blank"><img height="20" src="svg/inertia.svg"></a></code>
+<code><a href="https://aws.amazon.com/console/" target="_blank"><img height="20" src="svg/aws.svg"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img height="20" src="svg/firebase.svg"></a></code>
+<code><a href="https://supabase.com/" target="_blank"><img height="20" src="svg/supabase-icon.svg"></a></code>
 
 #### <img height="18" src="https://api.iconify.design/fluent-emoji:magic-wand.svg"> Projects
 
