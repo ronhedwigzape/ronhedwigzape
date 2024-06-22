@@ -59,7 +59,7 @@
 ##### Personal Project/s (Case Study)
 
 - [**ronhedwigzape/vue-voice-gpt**](https://github.com/ronhedwigzape/vue-voice-gpt) - A Vue app that uses OpenAI's GPT-3/4 to generate text from voice input.
-- [**ronhedwigzape/laravel-event-management**](https://github.com/ronhedwigzape/notes) - An event management API project with Laravel 10 (featuring php new syntax!).  
+- [**ronhedwigzape/laravel-event-management**](https://github.com/ronhedwigzape/laravel-event-management) - An event management API project with Laravel 10 (featuring php new syntax!).  
 - [**ronhedwigzape/laravel-book-review**](https://github.com/ronhedwigzape/laravel-book-review) - A project for making book reviews.
 - [**ronhedwigzape/vue-aliexpress-clone**](https://github.com/ronhedwigzape/vue-aliexpress-clone) - Nuxt Clone of Ali Express.
 
