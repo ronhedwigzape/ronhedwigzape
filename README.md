@@ -25,6 +25,8 @@
 <code><a href="https://javascript.info/" target="_blank"><img height="20" src="svg/javascript.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="20" src="svg/typescript.svg"></a></code>
 <code><a href="https://vitejs.dev/" target="_blank"><img height="20" src="svg/vitejs.svg"></a></code>
+<code><a href="https://webpack.js.org/" target="_blank"><img height="20" src="svg/webpack.svg"></a></code>
+<code><a href="https://react.dev/" target="_blank"><img height="20" src="svg/react.svg"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="20" src="svg/file-type-vue.svg"></a></code>
 <code><a href="https://vueuse.org/" target="_blank"><img height="20" src="svg/vueuse.svg"></a></code>
 <code><a href="https://nuxt.com/" target="_blank"><img height="20" src="svg/nuxt-icon.svg"></a></code>
@@ -40,6 +42,9 @@
 <code><a href="https://aws.amazon.com/console/" target="_blank"><img height="20" src="svg/aws.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="20" src="svg/firebase.svg"></a></code>
 <code><a href="https://supabase.com/" target="_blank"><img height="20" src="svg/supabase-icon.svg"></a></code>
+<code><a href="https://azure.microsoft.com/en-us" target="_blank"><img height="19" src="svg/azure.svg"></a></code>
+<code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="22" src="svg/csharp.svg"></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img height="20" src="svg/dotnet.svg"></a></code>
 
 #### <img height="18" src="https://api.iconify.design/fluent-emoji:magic-wand.svg"> Projects
 
