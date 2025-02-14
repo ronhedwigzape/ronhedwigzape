@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm [Ron](https://upload.wikimedia.org/wikipedia/en/5/5e/Ron_Weasley_poster.jpg) [Hedwig](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2016%2F06%2Fharryhedwig_0.jpg&q=60)! 🦉
 
-> aspiring to become a professional software engineer. I love Harry Potter and infuse magic into my works. 💫
+> a professional IT Specialist & Full-Stack Developer. I love Harry Potter and infuse magic into my works. 💫
 
 #### 📞 Find me
 
